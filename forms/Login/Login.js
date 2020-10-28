@@ -1,4 +1,4 @@
 
 btnNewUser.onclick=function(){
-  changeform(Newuserlogin)
+  ChangeForm(Newuserlogin)
 }
