@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnRestaurantsubmit",
-  "left": 92,
+  "left": 90,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 234,
+  "top": 250,
   "value": "Restaurant Login",
   "width": "auto"
 }
